@@ -1,0 +1,7 @@
+﻿  UnitTest8.1_char.cpp
+D:\Student\lab8.1_char\UnitTest8.1_char\UnitTest8.1_char.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+D:\Student\lab8.1_char\UnitTest8.1_char\UnitTest8.1_char.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+D:\Student\lab8.1_char\UnitTest8.1_char\UnitTest8.1_char.cpp(2): message : использование предварительно скомпилированного заголовка
+D:\Student\lab8.1_char\lab8.1_char\lab8.1_char.cpp(18): warning C4715: Find_Dot: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\lab8.1_char\Debug\UnitTest8.1_char.lib и объект D:\Student\lab8.1_char\Debug\UnitTest8.1_char.exp
+  UnitTest8.1_char.vcxproj -> D:\Student\lab8.1_char\Debug\UnitTest8.1_char.dll

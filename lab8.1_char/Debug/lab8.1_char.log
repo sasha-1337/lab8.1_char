@@ -1,0 +1,3 @@
+﻿  lab8.1_char.cpp
+D:\Student\lab8.1_char\lab8.1_char\lab8.1_char.cpp(18): warning C4715: Find_Dot: значение возвращается не при всех путях выполнения
+  lab8.1_char.vcxproj -> D:\Student\lab8.1_char\Debug\lab8.1_char.exe
